@@ -1,0 +1,6 @@
+{
+  "name": "AURA - Goal Planning & Scenario Simulator",
+  "description": "AI-powered personal goal planning, multi-scenario future simulations, and actionable strategic insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
